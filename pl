@@ -1,3 +1,20 @@
+[b][center][color=lime]Aktualizacja 1.0.1.4 BETA już dostępna![/color][/center][/b]
+
+[color=#FFFFFF]Drodzy Gracze,[/color]
+
+Z przyjemnością informujemy, że pojawiła się nowa wersja naszej gry – [b]1.0.1.4 BETA[/b]! 🎉
+
+W tej aktualizacji znajdziecie:
+⚡ [b][color=#00FF7F]Poprawę optymalizacji[/color][/b] – gra działa szybciej i płynniej
+🎮 [b][color=#00FF7F]Ulepszone sterowanie w wersji mobilnej[/color][/b] 📱
+🎨 [b][color=#00FF7F]Zmiany wizualne[/color][/b] – odświeżony wygląd i lepsze wrażenia
+❌ [b][color=#00FF7F]Usunięcie reklam z wersji mobilnej[/color][/b] 🙌
+✨ …i wiele więcej niespodzianek!
+
+Dzięki Waszemu wsparciu i opiniom możemy ciągle ulepszać grę ❤️
+
+[i][color=#00FF7F]Zespół deweloperski[/color][/i]
+
 [b][center][color=lime]Demo Dying Spark już dostępne![/color][/center][/b]
 
 [color=#FFFFFF]Drodzy Gracze,[/color]  
