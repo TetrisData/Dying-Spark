@@ -1,3 +1,18 @@
+[b][center][color=lime]Aktualizacja 1.0.1.5 BETA jest już dostępna![/color][/center][/b]
+
+[color=#FFFFFF]Drodzy Gracze,[/color]
+
+Z radością ogłaszamy wydanie [b]wersji 1.0.1.5 BETA[/b]! 🎉
+
+Ta aktualizacja zawiera:  
+⚡ [b][color=#00FF7F]Naprawiono pobieranie aktualizacji[/color][/b] 🔄  
+❌ [b][color=#00FF7F]Naprawiono wyskakujące okno błędu w grze[/color][/b] ⚠️  
+✨ [b][color=#00FF7F]Różne drobne usprawnienia i poprawki[/color][/b] 🔧  
+
+Dzięki Waszemu wsparciu i opiniom możemy stale ulepszać grę ❤️  
+
+[i][color=#00FF7F]Zespół deweloperski[/color][/i]
+
 [b][center][color=lime]Aktualizacja 1.0.1.4 BETA już dostępna![/color][/center][/b]
 
 [color=#FFFFFF]Drodzy Gracze,[/color]
