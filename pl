@@ -1,3 +1,5 @@
+[b][center][color=red]Aktualizacja systemu! Od teraz gra sama się aktualizuje na stronie gry, zmiana ta usprawnia równierz prędkość pobierania[/color][/center][/b]
+
 [b][center][color=lime]Aktualizacja 1.0.1.5 BETA jest już dostępna![/color][/center][/b]
 
 [color=#FFFFFF]Drodzy Gracze,[/color]
